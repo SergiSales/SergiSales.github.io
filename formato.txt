@@ -1,3 +1,0 @@
-#aqua {color:aqua;}
-#teal {color:teal;}
-#navy {color:navy;}
